@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Amber_Valley_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q750643",
+    "start": "1983",
+    "end": "9999"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate in Amber Valley",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
